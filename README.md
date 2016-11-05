@@ -1,2 +1,2 @@
-# Calculator
-ios objective-c 实现计算器的基本四则运算和高级运算
+## 运行效果
+* ![advance_calculator]( https://github.com/ahutsunshine/Calculator/blob/master/gif/%E9%AB%98%E7%BA%A7%E8%AE%A1%E7%AE%97%E5%99%A8.gif )
