@@ -33,6 +33,9 @@
 		5279316A1DCB663900634CF5 /* HealthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931691DCB663900634CF5 /* HealthViewController.m */; };
 		5279316B1DCB663900634CF5 /* HealthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931691DCB663900634CF5 /* HealthViewController.m */; };
 		5279316C1DCB663900634CF5 /* HealthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931691DCB663900634CF5 /* HealthViewController.m */; };
+		5279316F1DCE23BA00634CF5 /* 高级计算器.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5279316E1DCE23BA00634CF5 /* 高级计算器.gif */; };
+		527931701DCE23BA00634CF5 /* 高级计算器.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5279316E1DCE23BA00634CF5 /* 高级计算器.gif */; };
+		527931711DCE23BA00634CF5 /* 高级计算器.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5279316E1DCE23BA00634CF5 /* 高级计算器.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +84,7 @@
 		527931641DCB61BB00634CF5 /* Calculate+Health.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "Calculate+Health.m"; path = "../Calculator/Calculate+Health.m"; sourceTree = "<group>"; };
 		527931681DCB663900634CF5 /* HealthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthViewController.h; sourceTree = "<group>"; };
 		527931691DCB663900634CF5 /* HealthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthViewController.m; sourceTree = "<group>"; };
+		5279316E1DCE23BA00634CF5 /* 高级计算器.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "高级计算器.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,7 @@
 		5279310E1DCA1AF400634CF5 = {
 			isa = PBXGroup;
 			children = (
+				5279316D1DCE23BA00634CF5 /* gif */,
 				5279314D1DCA1B6300634CF5 /* Model */,
 				527931191DCA1AF400634CF5 /* Calculator */,
 				527931331DCA1AF400634CF5 /* CalculatorTests */,
@@ -188,6 +193,14 @@
 				5279315A1DCA251100634CF5 /* advancedCalculator.m */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		5279316D1DCE23BA00634CF5 /* gif */ = {
+			isa = PBXGroup;
+			children = (
+				5279316E1DCE23BA00634CF5 /* 高级计算器.gif */,
+			);
+			path = gif;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,6 +309,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5279316F1DCE23BA00634CF5 /* 高级计算器.gif in Resources */,
 				5279312A1DCA1AF400634CF5 /* LaunchScreen.storyboard in Resources */,
 				527931271DCA1AF400634CF5 /* Assets.xcassets in Resources */,
 				527931251DCA1AF400634CF5 /* Main.storyboard in Resources */,
@@ -306,6 +320,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				527931701DCE23BA00634CF5 /* 高级计算器.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +328,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				527931711DCE23BA00634CF5 /* 高级计算器.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -575,6 +591,7 @@
 				527931461DCA1AF400634CF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		527931471DCA1AF400634CF5 /* Build configuration list for PBXNativeTarget "CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -583,6 +600,7 @@
 				527931491DCA1AF400634CF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5279314A1DCA1AF400634CF5 /* Build configuration list for PBXNativeTarget "CalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -591,6 +609,7 @@
 				5279314C1DCA1AF400634CF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
