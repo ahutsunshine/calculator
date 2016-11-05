@@ -15,6 +15,24 @@
 		5279312A1DCA1AF400634CF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527931281DCA1AF400634CF5 /* LaunchScreen.storyboard */; };
 		527931351DCA1AF400634CF5 /* CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931341DCA1AF400634CF5 /* CalculatorTests.m */; };
 		527931401DCA1AF400634CF5 /* CalculatorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279313F1DCA1AF400634CF5 /* CalculatorUITests.m */; };
+		527931521DCA1B6300634CF5 /* Calculate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279314F1DCA1B6300634CF5 /* Calculate.m */; };
+		527931531DCA1B6300634CF5 /* Calculate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279314F1DCA1B6300634CF5 /* Calculate.m */; };
+		527931541DCA1B6300634CF5 /* Calculate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279314F1DCA1B6300634CF5 /* Calculate.m */; };
+		527931551DCA1B6300634CF5 /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931511DCA1B6300634CF5 /* Stack.m */; };
+		527931561DCA1B6300634CF5 /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931511DCA1B6300634CF5 /* Stack.m */; };
+		527931571DCA1B6300634CF5 /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931511DCA1B6300634CF5 /* Stack.m */; };
+		5279315B1DCA251100634CF5 /* advancedCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279315A1DCA251100634CF5 /* advancedCalculator.m */; };
+		5279315C1DCA251100634CF5 /* advancedCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279315A1DCA251100634CF5 /* advancedCalculator.m */; };
+		5279315D1DCA251100634CF5 /* advancedCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279315A1DCA251100634CF5 /* advancedCalculator.m */; };
+		527931601DCB236E00634CF5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279315F1DCB236E00634CF5 /* SecondViewController.m */; };
+		527931611DCB236E00634CF5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279315F1DCB236E00634CF5 /* SecondViewController.m */; };
+		527931621DCB236E00634CF5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5279315F1DCB236E00634CF5 /* SecondViewController.m */; };
+		527931651DCB61BB00634CF5 /* Calculate+Health.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931641DCB61BB00634CF5 /* Calculate+Health.m */; };
+		527931661DCB61BB00634CF5 /* Calculate+Health.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931641DCB61BB00634CF5 /* Calculate+Health.m */; };
+		527931671DCB61BB00634CF5 /* Calculate+Health.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931641DCB61BB00634CF5 /* Calculate+Health.m */; };
+		5279316A1DCB663900634CF5 /* HealthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931691DCB663900634CF5 /* HealthViewController.m */; };
+		5279316B1DCB663900634CF5 /* HealthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931691DCB663900634CF5 /* HealthViewController.m */; };
+		5279316C1DCB663900634CF5 /* HealthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 527931691DCB663900634CF5 /* HealthViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +69,18 @@
 		5279313B1DCA1AF400634CF5 /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5279313F1DCA1AF400634CF5 /* CalculatorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorUITests.m; sourceTree = "<group>"; };
 		527931411DCA1AF400634CF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5279314E1DCA1B6300634CF5 /* Calculate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculate.h; sourceTree = "<group>"; };
+		5279314F1DCA1B6300634CF5 /* Calculate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculate.m; sourceTree = "<group>"; };
+		527931501DCA1B6300634CF5 /* Stack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		527931511DCA1B6300634CF5 /* Stack.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
+		527931591DCA251100634CF5 /* advancedCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = advancedCalculator.h; sourceTree = "<group>"; };
+		5279315A1DCA251100634CF5 /* advancedCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = advancedCalculator.m; sourceTree = "<group>"; };
+		5279315E1DCB236E00634CF5 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		5279315F1DCB236E00634CF5 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		527931631DCB61BB00634CF5 /* Calculate+Health.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Calculate+Health.h"; path = "../Calculator/Calculate+Health.h"; sourceTree = "<group>"; };
+		527931641DCB61BB00634CF5 /* Calculate+Health.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "Calculate+Health.m"; path = "../Calculator/Calculate+Health.m"; sourceTree = "<group>"; };
+		527931681DCB663900634CF5 /* HealthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthViewController.h; sourceTree = "<group>"; };
+		527931691DCB663900634CF5 /* HealthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +111,7 @@
 		5279310E1DCA1AF400634CF5 = {
 			isa = PBXGroup;
 			children = (
+				5279314D1DCA1B6300634CF5 /* Model */,
 				527931191DCA1AF400634CF5 /* Calculator */,
 				527931331DCA1AF400634CF5 /* CalculatorTests */,
 				5279313E1DCA1AF400634CF5 /* CalculatorUITests */,
@@ -106,6 +137,10 @@
 				527931201DCA1AF400634CF5 /* ViewController.h */,
 				527931211DCA1AF400634CF5 /* ViewController.m */,
 				527931231DCA1AF400634CF5 /* Main.storyboard */,
+				527931681DCB663900634CF5 /* HealthViewController.h */,
+				527931691DCB663900634CF5 /* HealthViewController.m */,
+				5279315E1DCB236E00634CF5 /* SecondViewController.h */,
+				5279315F1DCB236E00634CF5 /* SecondViewController.m */,
 				527931261DCA1AF400634CF5 /* Assets.xcassets */,
 				527931281DCA1AF400634CF5 /* LaunchScreen.storyboard */,
 				5279312B1DCA1AF400634CF5 /* Info.plist */,
@@ -138,6 +173,21 @@
 				527931411DCA1AF400634CF5 /* Info.plist */,
 			);
 			path = CalculatorUITests;
+			sourceTree = "<group>";
+		};
+		5279314D1DCA1B6300634CF5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				527931631DCB61BB00634CF5 /* Calculate+Health.h */,
+				527931641DCB61BB00634CF5 /* Calculate+Health.m */,
+				5279314E1DCA1B6300634CF5 /* Calculate.h */,
+				5279314F1DCA1B6300634CF5 /* Calculate.m */,
+				527931501DCA1B6300634CF5 /* Stack.h */,
+				527931511DCA1B6300634CF5 /* Stack.m */,
+				527931591DCA251100634CF5 /* advancedCalculator.h */,
+				5279315A1DCA251100634CF5 /* advancedCalculator.m */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,9 +323,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				527931521DCA1B6300634CF5 /* Calculate.m in Sources */,
 				527931221DCA1AF400634CF5 /* ViewController.m in Sources */,
 				5279311F1DCA1AF400634CF5 /* AppDelegate.m in Sources */,
+				527931601DCB236E00634CF5 /* SecondViewController.m in Sources */,
+				527931651DCB61BB00634CF5 /* Calculate+Health.m in Sources */,
+				5279316A1DCB663900634CF5 /* HealthViewController.m in Sources */,
+				527931551DCA1B6300634CF5 /* Stack.m in Sources */,
 				5279311C1DCA1AF400634CF5 /* main.m in Sources */,
+				5279315B1DCA251100634CF5 /* advancedCalculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +339,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5279316B1DCB663900634CF5 /* HealthViewController.m in Sources */,
+				527931611DCB236E00634CF5 /* SecondViewController.m in Sources */,
+				527931561DCA1B6300634CF5 /* Stack.m in Sources */,
+				527931661DCB61BB00634CF5 /* Calculate+Health.m in Sources */,
+				527931531DCA1B6300634CF5 /* Calculate.m in Sources */,
 				527931351DCA1AF400634CF5 /* CalculatorTests.m in Sources */,
+				5279315C1DCA251100634CF5 /* advancedCalculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,7 +353,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5279316C1DCB663900634CF5 /* HealthViewController.m in Sources */,
+				527931621DCB236E00634CF5 /* SecondViewController.m in Sources */,
+				527931571DCA1B6300634CF5 /* Stack.m in Sources */,
+				527931671DCB61BB00634CF5 /* Calculate+Health.m in Sources */,
+				527931541DCA1B6300634CF5 /* Calculate.m in Sources */,
 				527931401DCA1AF400634CF5 /* CalculatorUITests.m in Sources */,
+				5279315D1DCA251100634CF5 /* advancedCalculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
